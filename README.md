@@ -17,7 +17,7 @@
 #### 运行项目
 
  ```shell
- git clone fried-chicken
+ git clone https://github.com/ahnuchen/fried-chicken.git
  cd fried-chicken
  npm i -g pnpm
  pnpm i -r --shamefully-hoist
